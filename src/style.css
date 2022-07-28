@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+        
+#container-imagem {
+    height: 100vh;
+    width: 100vw;
+    /* adicionando imagem de fundo */
+    background: url('https://cdn.create.vista.com/api/media/small/44394703/stock-photo-cupid-on-red-background');
+    background-size: cover;
+}
