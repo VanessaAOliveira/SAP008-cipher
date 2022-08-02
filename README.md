@@ -2,9 +2,9 @@
 
 ## Índice
 
-* [1. Cifra de César](#4-Cifra de César)
-* [2. Sobre o Projeto](#4-Sobre o Projeto)
-* [3. Como Usar](#4-Como Usar)
+* [1. Cifra de César](#4-Cifra-de-César)
+* [2. Sobre o Projeto](#4-Sobre-o-Projeto)
+* [3. Como Usar](#4-Como-Usar)
 * [4. Desenvolvimento](#4-Desenvolvimento)
 
 *
