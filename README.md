@@ -7,7 +7,7 @@
 * [3. Como Usar](#4-Como Usar)
 * [4. Desenvolvimento](#4-Desenvolvimento)
 
-***
+*
 
 ## 1. Cifra de César
 A cifra de César é uma das mais simples e conhecidas técnicas de criptografia. É um tipo de cifra de  substituição na qual cada letra do texto é substituída por outra, que se apresenta no alfabeto abaixo dela um número fixo de vezes.
