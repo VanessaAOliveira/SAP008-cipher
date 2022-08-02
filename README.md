@@ -18,9 +18,9 @@ KRMH criptografada.
 
 O nome do método é em homenagem a Júlio César, imperador romano de 100 a.C. a 44 a.C., utilizava um código para proteger as mensagens enviadas a seus generais. Assim, se a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida.
 
-![caeser-cipher](https://user-images.githubusercontent.com/11894994/60990999-07ffdb00-a320-11e9-87d0-b7c291bc4cd1.png)
-
 ## 2. Sobre o Projeto
+
+HAPPY VALENTINE'S DAY
 
 A aplicação consiste em utilizar a técnica da Cifra de César para codificar mensagens de amor e inovar as mensagens enviadas no dia dos namorados e assim surpreender ainda mais a pessoa que receber a mensagem que ficara bem curiosa para descobrir o que recebeu, mantendo um 
 aspecto de surpresa e euforia para essa nova descoberta.
