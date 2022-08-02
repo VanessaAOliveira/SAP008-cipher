@@ -22,12 +22,6 @@ const buttonClean = document.getElementById('buttonReset');
 buttonClean.addEventListener('click', reset);
 
 function reset() {
-  document.getElementById('myForm').reset();
-}
-
-const buttonClean2 = document.getElementById('buttonReset');
-buttonClean2.addEventListener('click', reset2);
-
-function reset2() {
-  document.getElementById('myForm').reset();
+  document.getElementById('mensage').reset();
+  document.getElementById('convertedText').reset();
 }

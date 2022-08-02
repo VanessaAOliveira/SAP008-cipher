@@ -12,7 +12,7 @@
         <h1>Happy Valentine's Day</h1>
         <h2>Envie mensagens secretas para seu amor!</h2>
         
-        <form id="myForm" name="myForm">
+        <form id="mensage" name="mensage">
         <textarea id="inputText" type="text" cols="40" rows="6" 
          placeholder="Digite aqui sua mensagem "></textarea> 
          
@@ -20,17 +20,18 @@
     
 
         <h3>Chave de Deslocamento:</h3>
+        <div id="buttons">
         <input type="number" id="inputOffset" name="inputOffset" min="1" max="25">
         <input type="button" id="buttonEncode" value="Codificar">
         <input type="button" id="buttonDecode" value="Decodificar">
         <input type="button" id="buttonReset" value="Limpar">
+     
         
-        <h3>Senha criptografada:</h3>
-        <form id="convertedText"> 
+        <h3>Resultado:</h3>
+        <form id="convertedText">
         <textarea id="inputConvertedText" type="text" cols="40" rows="6" readonly></textarea>
-      
-      </form></div>
-      
-  </body>
+    </form></div>
+
+  </div></body>
   <script src="index.js" type="module"></script>
 </html>

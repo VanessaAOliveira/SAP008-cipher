@@ -1,4 +1,3 @@
-
 const cipher = {
   encode(offset, word) {
     if (typeof word !== 'string') {
