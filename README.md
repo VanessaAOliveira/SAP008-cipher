@@ -7,7 +7,6 @@
 * [3. Como Usar](#4-Como-Usar)
 * [4. Desenvolvimento](#4-Desenvolvimento)
 
-*
 
 ## 1. Cifra de César
 A cifra de César é uma das mais simples e conhecidas técnicas de criptografia. É um tipo de cifra de  substituição na qual cada letra do texto é substituída por outra, que se apresenta no alfabeto abaixo dela um número fixo de vezes.
@@ -20,12 +19,13 @@ O nome do método é em homenagem a Júlio César, imperador romano de 100 a.C. 
 
 ## 2. Sobre o Projeto
 
-HAPPY VALENTINE'S DAY
+Happy Valentine's Day
 
 A aplicação consiste em utilizar a técnica da Cifra de César para codificar mensagens de amor e inovar as mensagens enviadas no dia dos namorados e assim surpreender ainda mais a pessoa que receber a mensagem que ficara bem curiosa para descobrir o que recebeu, mantendo um 
 aspecto de surpresa e euforia para essa nova descoberta.
 O usuário poderá enviar para outra pessoa as informações cifradas e depois informar/explicar qual a chave de deslocamento para desvendar (offset).
 
+<img src="/lab/valentine's day.jpg"/>
 
 
 ## 3. Como Usar
