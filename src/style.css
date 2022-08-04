@@ -17,12 +17,12 @@ h1 {color: rebeccapurple;
 h2{
     color: crimson;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 form{
     text-align: center;
-    border-bottom:;
-    border-radius: 13px;
+    border-color: darkviolet;
 }
 
 h3{
@@ -32,5 +32,5 @@ h3{
 
 #buttons{
     text-align: center;
-    
+
 }

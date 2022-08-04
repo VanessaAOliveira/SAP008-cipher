@@ -1,21 +1,21 @@
 import cipher from './cipher.js';
 
 const buttonCode = document.getElementById('buttonEncode');
-buttonCode.addEventListener('click', encodeWord);
+buttonCode.addEventListener('click', encodeText);
 
-function encodeWord() {
+function encodeText() {
   const word = document.getElementById('inputText').value;
   const offset = parseInt(document.getElementById('inputOffset').value);
-  document.getElementById('inputConvertedText').value = cipher.encode(offset, word);
+  document.getElementById('ConvertedText').value = cipher.encode(offset, word);
 }
 
 const buttonDecod = document.getElementById('buttonDecode');
-buttonDecod.addEventListener('click', decodeWord);
+buttonDecod.addEventListener('click', decodeText);
 
-function decodeWord() {
+function decodeText() {
   const word = document.getElementById('inputText').value;
   const offset = parseInt(document.getElementById('inputOffset').value);
-  document.getElementById('inputConvertedText').value = cipher.decode(offset, word);
+  document.getElementById('ConvertedText').value = cipher.decode(offset, word);
 }
 
 const buttonClean = document.getElementById('buttonReset');

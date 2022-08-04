@@ -4,7 +4,7 @@ const cipher = {
       throw new TypeError('Digite apenas letras');
     }
     let codedWord = '';
-    // eslint-disable-next-line no-plusplus
+
     for (let i = 0; i < word.length; i++) {
       const lettersUppercase = word.toUpperCase();
       const convert = (lettersUppercase.charCodeAt(i) + offset - 65) % 26;
@@ -19,7 +19,7 @@ const cipher = {
       throw new TypeError('Digite apenas letras');
     }
     let codedWord = '';
-    // eslint-disable-next-line no-plusplus
+
     for (let i = 0; i < word.length; i++) {
       const lettersUppercase = word.toUpperCase();
       const convert = (lettersUppercase.charCodeAt(i) - offset + 65) % 26;
