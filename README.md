@@ -4,8 +4,7 @@
 
 * [1. Cifra de César](#4-Cifra-de-César)
 * [2. Sobre o Projeto](#4-Sobre-o-Projeto)
-* [3. Como Usar](#4-Como-Usar)
-* [4. Desenvolvimento](#4-Desenvolvimento)
+* [3. Desenvolvimento](#4-Desenvolvimento)
 
 
 ## 1. Cifra de César
@@ -28,10 +27,7 @@ O usuário poderá enviar para outra pessoa as informações cifradas e depois i
 <img src="/lab/valentine's day.jpg"/>
 
 
-## 3. Como Usar
-
-
-## 4. Desenvolvimento
+## 3. Desenvolvimento
 
 A primeiro momento foi feito um estudo para compreensão da logica da criptografia,escolha do tema e criação do protótipo em papel.
 
