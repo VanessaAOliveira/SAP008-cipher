@@ -24,7 +24,7 @@ A aplicação consiste em utilizar a técnica da Cifra de César para codificar 
 aspecto de surpresa e euforia para essa nova descoberta.
 O usuário poderá enviar para outra pessoa as informações cifradas e depois informar/explicar qual a chave de deslocamento para desvendar (offset).
 
-<img src="/lab/valentine's day.jpg"/>
+<img src="valentine's day.jpg"/>
 
 
 ## 3. Desenvolvimento
